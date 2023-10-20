@@ -1,0 +1,649 @@
+area_id,address,measurement_type,target_type,target,number,total_number,total_area
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",number,amenity,library,0,0,0.0
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",number,amenity,school,8,8,0.0
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",number,amenity,clinic,2,2,0.0
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",number,amenity,dentist,0,0,0.0
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",number,amenity,pharmacy,5,5,0.0
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",number,amenity,cinema,0,0,0.0
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",number,amenity,courthouse,0,0,0.0
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",number,amenity,fire_station,0,0,0.0
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",number,amenity,police,0,0,0.0
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",area,amenity,collage,0,0,0.0
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",area,amenity,university,0,0,0.0
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",area,amenity,parking,0,0,0.0
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",area,amenity,hospital,0,0,0.0
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",area,landuse,residential,0,0,3181933.0172047047
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",area,landuse,forest,0,0,0.0
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",number,railway,station,0,0,0.0
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",number,leisure,playground,0,0,0.0
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",number,leisure,stadium,0,0,0.0
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",area,leisure,marina,0,0,0.0
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",area,leisure,park,0,0,21650.712213706924
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",area,tourism,museum,0,0,0.0
+3609219465,"Kavakpınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34889, Türkiye",area,tourism,theme_park,0,0,0.0
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",number,amenity,library,0,0,0.0
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",number,amenity,school,8,8,0.0
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",number,amenity,clinic,0,0,0.0
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",number,amenity,dentist,1,1,0.0
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",number,amenity,pharmacy,10,10,0.0
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",number,amenity,cinema,0,0,0.0
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",number,amenity,courthouse,0,0,0.0
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",number,amenity,fire_station,0,0,0.0
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",number,amenity,police,1,1,0.0
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",area,amenity,collage,0,0,0.0
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",area,amenity,university,0,0,0.0
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",area,amenity,parking,0,0,43176.54727619304
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",area,amenity,hospital,0,0,5381.3029768597335
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",area,landuse,residential,0,0,454244.5222694911
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",area,landuse,forest,0,0,0.0
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",number,railway,station,1,1,0.0
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",number,leisure,playground,7,7,0.0
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",number,leisure,stadium,0,0,0.0
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",area,leisure,marina,0,0,0.0
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",area,leisure,park,0,0,18285.37546089047
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",area,tourism,museum,0,0,0.0
+3609432147,"Kurtköy Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34606, Türkiye",area,tourism,theme_park,0,0,0.0
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,library,1,1,0.0
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,school,6,6,0.0
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,clinic,2,2,0.0
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,dentist,0,0,0.0
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,pharmacy,1,1,0.0
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,cinema,0,0,0.0
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,courthouse,0,0,0.0
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,fire_station,0,0,0.0
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,police,0,0,0.0
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,collage,0,0,0.0
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,university,0,0,0.0
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,parking,0,0,572.0021129284287
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,hospital,0,0,0.0
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,residential,0,0,723491.3784853942
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,forest,0,0,340592.83742561564
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,railway,station,0,0,0.0
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,playground,7,7,0.0
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,stadium,0,0,0.0
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,marina,0,0,0.0
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,park,0,0,23373.536808261706
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,museum,0,0,0.0
+3609268910,"Velibaba Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,theme_park,0,0,0.0
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,library,0,0,0.0
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,school,8,8,0.0
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,clinic,0,0,0.0
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,dentist,1,1,0.0
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,pharmacy,15,15,0.0
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,cinema,0,0,0.0
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,courthouse,0,0,0.0
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,fire_station,0,0,0.0
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,police,0,0,0.0
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,collage,0,0,0.0
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,university,0,0,0.0
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,parking,0,0,0.0
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,hospital,0,0,1603.611828044057
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,residential,0,0,1778471.4701563383
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,forest,0,0,0.0
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,railway,station,1,1,0.0
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,playground,1,1,0.0
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,stadium,0,0,0.0
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,marina,0,0,0.0
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,park,0,0,251811.20432520294
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,museum,0,0,0.0
+3609218021,"Kaynarca Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,theme_park,0,0,0.0
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",number,amenity,library,1,1,0.0
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",number,amenity,school,9,9,0.0
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",number,amenity,clinic,1,1,0.0
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",number,amenity,dentist,1,1,0.0
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",number,amenity,pharmacy,7,7,0.0
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",number,amenity,cinema,0,0,0.0
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",number,amenity,courthouse,0,0,0.0
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",number,amenity,fire_station,1,1,0.0
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",number,amenity,police,0,0,0.0
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",area,amenity,collage,0,0,0.0
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",area,amenity,university,0,0,0.0
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",area,amenity,parking,0,0,6571.636663496902
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",area,amenity,hospital,0,0,0.0
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",area,landuse,residential,0,0,916700.735595244
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",area,landuse,forest,0,0,0.0
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",number,railway,station,0,0,0.0
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",number,leisure,playground,0,0,0.0
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",number,leisure,stadium,0,0,0.0
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",area,leisure,marina,0,0,0.0
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",area,leisure,park,0,0,1997.7335365320323
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",area,tourism,museum,0,0,0.0
+3609218332,"Bahçelievler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34893, Türkiye",area,tourism,theme_park,0,0,0.0
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,library,0,0,0.0
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,school,8,8,0.0
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,clinic,0,0,0.0
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,dentist,0,0,0.0
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,pharmacy,22,22,0.0
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,cinema,0,0,0.0
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,courthouse,0,0,0.0
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,fire_station,0,0,0.0
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,police,0,0,0.0
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,collage,0,0,0.0
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,university,0,0,0.0
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,parking,0,0,33812.3245274761
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,hospital,0,0,85883.7625113237
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,residential,0,0,2188616.0110311867
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,forest,0,0,0.0
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,railway,station,1,1,0.0
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,playground,5,5,0.0
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,stadium,0,0,0.0
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,marina,0,0,0.0
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,park,0,0,472156.97699550964
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,museum,0,0,0.0
+3609219471,"Fevzi Çakmak Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,theme_park,0,0,0.0
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,library,0,0,0.0
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,school,3,3,0.0
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,clinic,0,0,0.0
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,dentist,0,0,0.0
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,pharmacy,4,4,0.0
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,cinema,0,0,0.0
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,courthouse,0,0,0.0
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,fire_station,0,0,0.0
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,police,0,0,0.0
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,collage,0,0,0.0
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,university,0,0,0.0
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,parking,0,0,29845.75977915636
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,hospital,0,0,0.0
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,residential,0,0,2465179.152065336
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,forest,0,0,33595.5335761141
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,railway,station,2,2,0.0
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,playground,0,0,0.0
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,stadium,0,0,0.0
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,marina,0,0,0.0
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,park,0,0,3940.360953465104
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,museum,0,0,0.0
+3609078111,"Güzelyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,theme_park,0,0,0.0
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,library,1,1,0.0
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,school,23,23,0.0
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,clinic,4,4,0.0
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,dentist,2,2,0.0
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,pharmacy,9,9,0.0
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,cinema,1,1,0.0
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,courthouse,0,0,0.0
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,fire_station,1,1,0.0
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,police,1,1,0.0
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,collage,0,0,0.0
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,university,0,0,0.0
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,parking,0,0,158435.8465912725
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,hospital,0,0,19350.61397901812
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,residential,0,0,2512224.3630583156
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,forest,0,0,0.0
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,railway,station,0,0,0.0
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,playground,11,11,0.0
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,stadium,1,1,0.0
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,marina,0,0,0.0
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,park,0,0,528380.4530305511
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,museum,0,0,0.0
+3609363902,"Yenişehir Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,theme_park,0,0,12065.839486679994
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,library,0,0,0.0
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,school,8,8,0.0
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,clinic,1,1,0.0
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,dentist,0,0,0.0
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,pharmacy,1,1,0.0
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,cinema,0,0,0.0
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,courthouse,0,0,0.0
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,fire_station,0,0,0.0
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,police,1,1,0.0
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,collage,0,0,0.0
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,university,0,0,0.0
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,parking,0,0,0.0
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,hospital,0,0,0.0
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,residential,0,0,31448.28067079233
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,forest,0,0,0.0
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,railway,station,0,0,0.0
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,playground,1,1,0.0
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,stadium,0,0,0.0
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,marina,0,0,0.0
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,park,0,0,6681.800964463066
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,sports_hall,0,0,0.0
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,museum,0,0,0.0
+3608866766,"Çınardere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,theme_park,0,0,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,library,1,1,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,school,5,5,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,clinic,1,1,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,dentist,0,0,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,pharmacy,1,1,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,cinema,0,0,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,courthouse,0,0,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,fire_station,0,0,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,police,0,0,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,collage,0,0,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,university,0,0,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,parking,0,0,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,hospital,0,0,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,residential,0,0,879976.0542774489
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,forest,0,0,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,railway,station,0,0,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,playground,0,0,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,stadium,0,0,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,marina,0,0,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,park,0,0,25311.738010198518
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,museum,0,0,0.0
+3609268783,"Güllü Bağlar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,theme_park,0,0,0.0
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,library,0,0,0.0
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,school,2,2,0.0
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,clinic,0,0,0.0
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,dentist,0,0,0.0
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,pharmacy,0,0,0.0
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,cinema,0,0,0.0
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,courthouse,0,0,0.0
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,fire_station,0,0,0.0
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,police,0,0,0.0
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,collage,0,0,0.0
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,university,0,0,0.0
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,parking,0,0,6826.88030516915
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,hospital,0,0,0.0
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,residential,0,0,608260.398793087
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,forest,0,0,0.0
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,railway,station,1,1,0.0
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,playground,0,0,0.0
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,stadium,0,0,0.0
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,marina,0,0,0.0
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,park,0,0,3762.916764134541
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,museum,0,0,0.0
+3609268921,"Yayalar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,theme_park,0,0,0.0
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",number,amenity,library,0,0,0.0
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",number,amenity,school,7,7,0.0
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",number,amenity,ferry_terminal,2,2,0.0
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",number,amenity,clinic,5,5,0.0
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",number,amenity,dentist,3,3,0.0
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",number,amenity,pharmacy,19,19,0.0
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",number,amenity,cinema,0,0,0.0
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",number,amenity,courthouse,0,0,0.0
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",number,amenity,fire_station,0,0,0.0
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",number,amenity,police,2,2,0.0
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",area,amenity,collage,0,0,0.0
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",area,amenity,university,0,0,0.0
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",area,amenity,parking,0,0,17451.42619940813
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",area,amenity,hospital,0,0,6670.922156585817
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",area,landuse,residential,0,0,918243.6692080728
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",area,landuse,forest,0,0,0.0
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",number,railway,station,0,0,0.0
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",number,leisure,playground,4,4,0.0
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",number,leisure,stadium,0,0,0.0
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",area,leisure,marina,0,0,0.0
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",area,leisure,park,0,0,192215.61661956363
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",area,tourism,museum,0,0,0.0
+3609218075,"Doğu Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34890, Türkiye",area,tourism,theme_park,0,0,0.0
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,library,0,0,0.0
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,school,6,6,0.0
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,clinic,1,1,0.0
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,dentist,0,0,0.0
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,pharmacy,6,6,0.0
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,cinema,0,0,0.0
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,courthouse,0,0,0.0
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,fire_station,0,0,0.0
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,police,1,1,0.0
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,collage,0,0,0.0
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,university,0,0,0.0
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,parking,0,0,4208.864817975089
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,hospital,0,0,0.0
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,residential,0,0,2366772.5683024107
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,forest,0,0,0.0
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,railway,station,0,0,0.0
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,playground,3,3,0.0
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,stadium,0,0,0.0
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,marina,0,0,0.0
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,park,0,0,751.9321648981422
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,museum,0,0,0.0
+3609219444,"Çamçeşme Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,theme_park,0,0,0.0
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",number,amenity,library,0,0,0.0
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",number,amenity,school,3,3,0.0
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",number,amenity,clinic,1,1,0.0
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",number,amenity,dentist,0,0,0.0
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",number,amenity,pharmacy,2,2,0.0
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",number,amenity,cinema,0,0,0.0
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",number,amenity,courthouse,0,0,0.0
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",number,amenity,fire_station,0,0,0.0
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",number,amenity,police,0,0,0.0
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",area,amenity,collage,0,0,0.0
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",area,amenity,university,0,0,0.0
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",area,amenity,parking,0,0,2418.4875666834414
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",area,amenity,hospital,0,0,0.0
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",area,landuse,residential,0,0,1827182.878721216
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",area,landuse,forest,0,0,8367.295568502246
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",number,railway,station,0,0,0.0
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",number,leisure,playground,0,0,0.0
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",number,leisure,stadium,0,0,0.0
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",area,leisure,marina,0,0,0.0
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",area,leisure,park,0,0,55558.178554948594
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",area,tourism,museum,0,0,0.0
+3609042591,"Ahmet Yesevi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34903, Türkiye",area,tourism,theme_park,0,0,0.0
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",number,amenity,library,0,0,0.0
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",number,amenity,school,12,12,0.0
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",number,amenity,clinic,0,0,0.0
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",number,amenity,dentist,0,0,0.0
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",number,amenity,pharmacy,3,3,0.0
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",number,amenity,cinema,0,0,0.0
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",number,amenity,courthouse,0,0,0.0
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",number,amenity,fire_station,0,0,0.0
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",number,amenity,police,0,0,0.0
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",area,amenity,collage,0,0,0.0
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",area,amenity,university,0,0,0.0
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",area,amenity,parking,0,0,14311.7848095328
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",area,amenity,hospital,0,0,28415.777505276026
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",area,landuse,residential,0,0,1110826.8275192701
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",area,landuse,forest,0,0,18454772.53516602
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",number,railway,station,0,0,0.0
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",number,leisure,playground,9,9,0.0
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",number,leisure,stadium,1,1,0.0
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",area,leisure,marina,0,0,0.0
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",area,leisure,park,0,0,13024.419983438573
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",area,tourism,museum,0,0,0.0
+3609361618,"Çamlık Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34912, Türkiye",area,tourism,theme_park,0,0,0.0
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,library,3,3,0.0
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,school,2,2,0.0
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,ferry_terminal,1,1,0.0
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,clinic,2,2,0.0
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,dentist,2,2,0.0
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,pharmacy,16,16,0.0
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,cinema,2,2,0.0
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,courthouse,0,0,0.0
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,fire_station,0,0,0.0
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,police,0,0,0.0
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,collage,0,0,0.0
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,university,0,0,0.0
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,parking,0,0,72009.6876636726
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,hospital,0,0,3197.782197374385
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,residential,0,0,668487.2200808501
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,forest,0,0,0.0
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,railway,station,1,1,0.0
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,playground,2,2,0.0
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,stadium,0,0,0.0
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,marina,0,0,268364.64501216024
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,park,0,0,328299.2973974392
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,museum,0,0,0.0
+3609218100,"Batı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,theme_park,0,0,0.0
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,library,0,0,0.0
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,school,4,4,0.0
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,clinic,1,1,0.0
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,dentist,0,0,0.0
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,pharmacy,4,4,0.0
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,cinema,0,0,0.0
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,courthouse,0,0,0.0
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,fire_station,0,0,0.0
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,police,0,0,0.0
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,collage,0,0,0.0
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,university,0,0,0.0
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,parking,0,0,43755.33968866011
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,hospital,0,0,0.0
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,residential,0,0,417856.6661713393
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,forest,0,0,0.0
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,railway,station,0,0,0.0
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,playground,5,5,0.0
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,stadium,0,0,0.0
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,marina,0,0,0.0
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,park,0,0,31505.734690736048
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,museum,0,0,0.0
+3609432146,"Harmandere Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,theme_park,0,0,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",number,amenity,library,0,0,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",number,amenity,school,3,3,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",number,amenity,clinic,2,2,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",number,amenity,dentist,0,0,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",number,amenity,pharmacy,5,5,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",number,amenity,cinema,0,0,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",number,amenity,courthouse,0,0,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",number,amenity,fire_station,0,0,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",number,amenity,police,0,0,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",area,amenity,collage,0,0,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",area,amenity,university,0,0,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",area,amenity,parking,0,0,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",area,amenity,hospital,0,0,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",area,landuse,residential,0,0,121737.5554084722
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",area,landuse,forest,0,0,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",number,railway,station,0,0,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",number,leisure,playground,3,3,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",number,leisure,stadium,0,0,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",area,leisure,marina,0,0,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",area,leisure,park,0,0,7094.080029833014
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",area,tourism,museum,0,0,0.0
+3609269124,"Sülüntepe Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34909, Türkiye",area,tourism,theme_park,0,0,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",number,amenity,library,0,0,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",number,amenity,school,6,6,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",number,amenity,clinic,0,0,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",number,amenity,dentist,0,0,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",number,amenity,pharmacy,5,5,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",number,amenity,cinema,0,0,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",number,amenity,courthouse,0,0,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",number,amenity,fire_station,0,0,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",number,amenity,police,0,0,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",area,amenity,collage,0,0,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",area,amenity,university,0,0,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",area,amenity,parking,0,0,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",area,amenity,hospital,0,0,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",area,landuse,residential,0,0,3482016.7715945262
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",area,landuse,forest,0,0,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",number,railway,station,0,0,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",number,leisure,playground,0,0,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",number,leisure,stadium,0,0,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",area,leisure,marina,0,0,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",area,leisure,park,0,0,36291.39688872709
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",area,tourism,museum,0,0,0.0
+3609219466,"Esenler Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34899, Türkiye",area,tourism,theme_park,0,0,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,library,0,0,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,school,6,6,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,clinic,0,0,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,dentist,0,0,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,pharmacy,6,6,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,cinema,0,0,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,courthouse,0,0,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,fire_station,0,0,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,police,0,0,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,collage,0,0,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,university,0,0,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,parking,0,0,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,hospital,0,0,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,residential,0,0,2528900.987516444
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,forest,0,0,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,railway,station,0,0,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,playground,0,0,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,stadium,0,0,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,marina,0,0,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,park,0,0,5571.418685451383
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,museum,0,0,0.0
+3609078094,"Orhangazi Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,theme_park,0,0,0.0
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,amenity,library,0,0,0.0
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,amenity,school,1,1,0.0
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,amenity,clinic,0,0,0.0
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,amenity,dentist,0,0,0.0
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,amenity,pharmacy,0,0,0.0
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,amenity,cinema,0,0,0.0
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,amenity,courthouse,0,0,0.0
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,amenity,fire_station,0,0,0.0
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,amenity,police,0,0,0.0
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,amenity,collage,0,0,0.0
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,amenity,university,0,0,0.0
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,amenity,parking,0,0,0.0
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,amenity,hospital,0,0,0.0
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,landuse,residential,0,0,17262.436215598602
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,landuse,forest,0,0,157600.82519457396
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,railway,station,1,1,0.0
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,leisure,playground,1,1,0.0
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,leisure,stadium,0,0,0.0
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,leisure,marina,0,0,0.0
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,leisure,park,0,0,305499.5798644518
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,tourism,museum,0,0,0.0
+3609220784,"Dumlupınar Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,tourism,theme_park,0,0,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,library,0,0,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,school,2,2,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,clinic,1,1,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,dentist,0,0,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,pharmacy,3,3,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,cinema,0,0,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,courthouse,0,0,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,fire_station,0,0,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,police,0,0,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,collage,0,0,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,university,0,0,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,parking,0,0,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,hospital,0,0,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,residential,0,0,2816211.7156960987
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,forest,0,0,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,railway,station,0,0,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,playground,1,1,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,stadium,0,0,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,marina,0,0,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,park,0,0,14110.698172084522
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,museum,0,0,0.0
+3609218298,"Sapan Bağları Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,theme_park,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,amenity,library,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,amenity,school,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,amenity,clinic,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,amenity,dentist,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,amenity,pharmacy,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,amenity,cinema,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,amenity,courthouse,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,amenity,fire_station,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,amenity,police,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,amenity,collage,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,amenity,university,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,amenity,parking,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,amenity,hospital,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,landuse,residential,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,landuse,forest,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,railway,station,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,leisure,playground,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",number,leisure,stadium,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,leisure,marina,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,leisure,park,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,leisure,sports_hall,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,tourism,museum,0,0,0.0
+11463165049,"Dolayoba, Orta Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34896, Türkiye",area,tourism,theme_park,0,0,0.0
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,library,0,0,0.0
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,school,2,2,0.0
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,clinic,0,0,0.0
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,dentist,0,0,0.0
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,pharmacy,6,6,0.0
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,cinema,0,0,0.0
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,courthouse,0,0,0.0
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,fire_station,0,0,0.0
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,police,0,0,0.0
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,collage,0,0,0.0
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,university,0,0,0.0
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,parking,0,0,4480.326023830799
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,hospital,0,0,0.0
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,residential,0,0,3264614.226543297
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,forest,0,0,0.0
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,railway,station,2,2,0.0
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,playground,0,0,0.0
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,stadium,0,0,0.0
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,marina,0,0,0.0
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,park,0,0,1236.2259607719607
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,museum,0,0,0.0
+3609218331,"Yeni Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,theme_park,0,0,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,library,0,0,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,school,5,5,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,clinic,0,0,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,dentist,0,0,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,pharmacy,5,5,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,cinema,0,0,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,courthouse,0,0,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,fire_station,0,0,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,police,0,0,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,collage,0,0,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,university,0,0,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,parking,0,0,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,hospital,0,0,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,residential,0,0,2705760.3368914234
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,forest,0,0,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,railway,station,0,0,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,playground,0,0,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,stadium,0,0,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,marina,0,0,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,park,0,0,8554.885680465843
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,museum,0,0,0.0
+3609042592,"Fatih Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,theme_park,0,0,0.0
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,library,0,0,0.0
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,school,7,7,0.0
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,clinic,0,0,0.0
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,dentist,0,0,0.0
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,pharmacy,4,4,0.0
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,cinema,0,0,0.0
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,courthouse,0,0,0.0
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,fire_station,0,0,0.0
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,amenity,police,0,0,0.0
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,collage,0,0,0.0
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,university,0,0,0.0
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,parking,0,0,1251.3222825452685
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,amenity,hospital,0,0,0.0
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,residential,0,0,2516505.0640387833
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,landuse,forest,0,0,0.0
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,railway,station,0,0,0.0
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,playground,0,0,0.0
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",number,leisure,stadium,0,0,0.0
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,marina,0,0,0.0
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,park,0,0,33223.26771758334
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,museum,0,0,0.0
+3609078093,"Esenyalı Mahallesi, Pendik, İstanbul, Marmara Bölgesi, Türkiye",area,tourism,theme_park,0,0,0.0
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",number,amenity,library,0,0,0.0
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",number,amenity,school,5,5,0.0
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",number,amenity,ferry_terminal,0,0,0.0
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",number,amenity,clinic,0,0,0.0
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",number,amenity,dentist,0,0,0.0
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",number,amenity,pharmacy,4,4,0.0
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",number,amenity,cinema,0,0,0.0
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",number,amenity,courthouse,0,0,0.0
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",number,amenity,fire_station,0,0,0.0
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",number,amenity,police,0,0,0.0
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",area,amenity,collage,0,0,0.0
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",area,amenity,university,0,0,0.0
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",area,amenity,parking,0,0,6529.0641434298595
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",area,amenity,hospital,0,0,0.0
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",area,landuse,residential,0,0,367804.6980597358
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",area,landuse,forest,0,0,0.0
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",number,railway,station,0,0,0.0
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",number,leisure,playground,4,4,0.0
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",number,leisure,stadium,0,0,0.0
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",area,leisure,marina,0,0,0.0
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",area,leisure,park,0,0,2684.369798116386
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",area,leisure,sports_hall,0,0,0.0
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",area,tourism,museum,0,0,0.0
+3609268801,"Şeyhli Mahallesi, Pendik, İstanbul, Marmara Bölgesi, 34906, Türkiye",area,tourism,theme_park,0,0,0.0
